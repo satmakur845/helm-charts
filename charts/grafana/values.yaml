@@ -122,6 +122,16 @@ serviceMonitor:
   interval: 1m
   scheme: http
   tlsConfig: {}
+
+
+
+
+
+
+
+
+
+  
   scrapeTimeout: 30s
   relabelings: []
 
